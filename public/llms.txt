@@ -1,6 +1,4 @@
-# CovaLagova — Generative Engine Optimization Map
-
-> A business focused on selling hats. No additional details provided about brand identity, style, target audience, or unique characteristics.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -72,20 +70,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About CovaLagova
-A business focused on selling hats. No additional details provided about brand identity, style, target audience, or unique characteristics.
-
-## Services/Products
-- hat sales
-
-## Target Audience
-- Fashion-Forward Millennials
-- Summer Festival Goers
-- Luxury Travelers
-
-## Industry
-fashion / accessories
-
+## About Business
 ---
 
 # Additional Resources
