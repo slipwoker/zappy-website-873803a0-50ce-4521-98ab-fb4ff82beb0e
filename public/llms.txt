@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover CovaLagova&#39;s ultimate hat collection — from promotional hats no minimum orders to exclusive hat sales. Find your perfect style and shop bold today!
+
+### Craftsmanship
+https://example.com/craftsmanship
+Every stitch tells a story at CovaLagova. Explore expert hat-making traditions, premium materials, and quality that rivals even paul smith bucket hat sale standards.
+
+### Brand Story
+https://example.com/brand-story
+From humble beginnings to iconic headwear, CovaLagova&#39;s journey is one of passion. Discover why fans searching versace hats on sale choose us for bold, lasting style.
+
+### Contact
+https://example.com/contact
+Have questions about promotional hats no minimum, bulk orders, or exclusive hat sales? Reach CovaLagova&#39;s team today and let&#39;s craft your perfect headwear solution!
+
+### Products
+https://example.com/products
+Our Products - CovaLagova
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - CovaLagova
+
+### Category
+https://example.com/category/:slug
+Products - CovaLagova
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
